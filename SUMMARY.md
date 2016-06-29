@@ -6,4 +6,5 @@
 * Población y muestra: ¿cuántos pacientes son necesarios?
 * Recolección de la información
 * Análisis exploratorio de datos
+* Dar a conocer los resultados
 
