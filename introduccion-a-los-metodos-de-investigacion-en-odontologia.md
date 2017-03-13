@@ -12,15 +12,20 @@ La época medieval
 
 El renacimiento: el surgimiento del método científico
 
+## Ciencia y odontología
+
+Época precientífica
+
+Era científica
+
+Era de la evidencia
+
 ## Conceptos clave
 
-Ciencia
-
-Método científico
-
-Hipótesis científica
-
-Teoría científica
+* Ciencia
+* Método científico
+* Hipótesis científica
+* Teoría científica
 
 ## Personajes
 
@@ -44,6 +49,4 @@ Teoría científica
 ### Historia de la ciencia
 
 The Story of Science, Documental BBC [1](https://www.youtube.com/watch?v=9KhbkinMUkI), [2](https://www.youtube.com/watch?v=ajxDJk5DxAQ), 3, [4](https://www.youtube.com/watch?v=aprdSrXGz7Y)
-
-
 
