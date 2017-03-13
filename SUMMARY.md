@@ -7,4 +7,5 @@
 * Recolección de la información
 * Análisis exploratorio de datos
 * [Dar a conocer los resultados](dar_a_conocer_los_resultados.md)
+* [Introducción a los métodos de investigación en Odontología](introduccion-a-los-metodos-de-investigacion-en-odontologia.md)
 
